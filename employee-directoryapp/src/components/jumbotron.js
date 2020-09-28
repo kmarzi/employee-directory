@@ -4,18 +4,28 @@ import {Jumbotron} from 'react-bootstrap';
 
 const styles = {
     headerStyle: {
-      background: ""
+      background: "pink",
+      marginLeft: "auto",
+      textAlign: "center",
+      marginRight: "auto",
+      height: "175px",
     },
-    headingStyle: {
-      fontSize: 100
-    }
+    h1: {
+        fontFamily: "verdana",
+        fontWeight: "bold",
+        fontSize: "55px",
+    },
+    p: {
+        fontFamily: "verdana",
+
+    },
   };
 
 
 function Header() {
 return (
     <Jumbotron fluid style={styles.headerStyle}>
-      <h1>Employee Directory</h1>
+      <h1 style={styles.h1}>Employee Directory</h1>
       <p>
         Filter by heading or use search box to narrow your results. 
       </p>

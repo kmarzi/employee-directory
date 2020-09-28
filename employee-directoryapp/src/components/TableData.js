@@ -32,12 +32,6 @@ function TableData () {
       <td>@fat</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
       <td>4</td>
       <td>Jacob</td>
       <td>Thornton</td>
@@ -62,12 +56,6 @@ function TableData () {
       <td>@fat</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>Jacob</td>
-      <td>Thornton</td>
-      <td>@fat</td>
-    </tr>
-    <tr>
       <td>8</td>
       <td>Jacob</td>
       <td>Thornton</td>
@@ -81,6 +69,18 @@ function TableData () {
     </tr>
     <tr>
       <td>10</td>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Jacob</td>
+      <td>Thornton</td>
+      <td>@fat</td>
+    </tr>
+    <tr>
+      <td>12</td>
       <td>Jacob</td>
       <td>Thornton</td>
       <td>@fat</td>
