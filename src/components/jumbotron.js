@@ -27,7 +27,7 @@ return (
     <Jumbotron fluid style={styles.headerStyle}>
       <h1 style={styles.h1}>Employee Directory</h1>
       <p>
-        Filter by heading or use search box to narrow your results. 
+        Use the search bar to narrow your results. 
       </p>
     
     </Jumbotron>
