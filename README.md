@@ -1,6 +1,6 @@
 # Employee Directory
 
-![description](./images/)
+![User Directory](./images/directory.png)
 
 ## Description:
 > This is a React application used to create an employee directory. Allows user to filter employees by name.
