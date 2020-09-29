@@ -8,10 +8,22 @@ const styles = {
         textAlign: "center",
         marginRight: "auto",
     }
-
 };
 
-function Search() {
+
+class Search extends React.Component{
+    handleInputChange= event => {
+        const {input, value} = event.target;
+        this.setState({
+            [input]: value
+        })
+    }
+}
+handleFormSubmit =event => {
+    event.preventDefault();
+}
+render (){
+
     return (
                 <div className="col-5" style={styles.searchStyle}>
                     <InputGroup className="mb-3" >
@@ -23,8 +35,8 @@ function Search() {
                 </div>
 
 
-    );
-
+);
+    }
 }
 
 export default Search;

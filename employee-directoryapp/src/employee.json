@@ -1,0 +1,63 @@
+
+[
+    {
+        "id": 1,
+        "name": "Hurley Reyes",
+        "phone": "555-555-5555",
+        "email": "H.Reyes@email.com"
+    },
+    {
+        "id": 2,
+        "name": "Sawyer Ford",
+        "phone": "555-555-5551",
+        "email": "S.Ford@email.com"
+    },
+    {
+        "id": 3,
+        "name": "Kate Austen",
+        "phone": "555-555-5552",
+        "email": "K.Austen@email.com"
+    },
+    {
+        "id": 4,
+        "name": "Boone Carlyle",
+        "phone": "555-555-5553",
+        "email": "B.Carlyle@email.com"
+    },
+    {
+        "id": 5,
+        "name": "Jack Shephard",
+        "phone": "555-555-5554",
+        "email": "J.Shephard@email.com"
+    },
+    {
+        "id": 6,
+        "name": "John Locke",
+        "phone": "555-555-5556",
+        "email": "J.Locke@email.com"
+    },
+    {
+        "id": 7,
+        "name": "Desmond Hume",
+        "phone": "555-555-5557",
+        "email": "D.Hume@email.com"
+    },
+    {
+        "id": 8,
+        "name": "Charlie Pace",
+        "phone": "555-555-5558",
+        "email": "C.Pace@email.com"
+    },
+    {
+        "id": 9,
+        "name": "Sayid Jarrah",
+        "phone": "555-555-5559",
+        "email": "S.Jarrah@email.com"
+    },
+    {
+        "id": 10,
+        "name": "Ben Linus",
+        "phone": "555-555-5501",
+        "email": "B.Linus@email.com"
+    }
+]
