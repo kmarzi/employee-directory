@@ -10,5 +10,7 @@
 > I want to be able to view my entire employee directory
 > so that I have quick access to their information.
 
-## [Deployed Link](-insert link-)
-## [Heroku](-insert link-)
+
+
+### [Deployed Link]( https://kmarzi.github.io/employee-directory/.)
+### [Heroku](https://git.heroku.com/shrouded-eyrie-90472.git)
