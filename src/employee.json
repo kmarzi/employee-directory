@@ -56,8 +56,69 @@
     },
     {
         "id": 10,
+        "name": "Claire Littleton",
+        "phone": "555-555-5502",
+        "email": "C.Littleton@email.com"
+    },
+    {
+        "id": 11,
         "name": "Ben Linus",
-        "phone": "555-555-5501",
+        "phone": "555-555-5503",
         "email": "B.Linus@email.com"
+    },
+    {
+        "id": 12,
+        "name": "Jin-Soo Kwon",
+        "phone": "555-555-5504",
+        "email": "J.Kwon@email.com"
+    },
+    {
+        "id": 13,
+        "name": "Juliet Burke",
+        "phone": "555-555-5505",
+        "email": "J.Burke@email.com"
+    },
+    {
+        "id": 14,
+        "name": "Richard Apple",
+        "phone": "555-555-5506",
+        "email": "R.Apple@email.com"
+    },
+    {
+        "id": 15,
+        "name": "Walt Lloyd",
+        "phone": "555-555-5507",
+        "email": "W.Lloyd@email.com"
+    },
+    {
+        "id": 16,
+        "name": "Penny Widmore",
+        "phone": "555-555-5509",
+        "email": "P.Widmore@email.com"
+    },
+    {
+        "id": 17,
+        "name": "Michael Dawson",
+        "phone": "555-555-5101",
+        "email": "M.Dawson@email.com"
+    },
+    {
+        "id": 18,
+        "name": "Anna Cortez",
+        "phone": "555-555-5102",
+        "email": "A.Cortez@email.com"
+    },
+    {
+        "id": 19,
+        "name": "Adewale Eko",
+        "phone": "555-555-5103",
+        "email": "A.Eko@email.com"
+    },
+    {
+        "id": 20,
+        "name": "Alex Rousseau",
+        "phone": "555-555-5104",
+        "email": "A.Rousseau@email.com"
     }
+
 ]
