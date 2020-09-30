@@ -3,7 +3,7 @@
 ![User Directory](./images/directory.png)
 
 ## Description:
-> This is a React application used to create an employee directory. Allows user to filter employees by name.
+> This is a React application used to create an employee directory. Allows user to filter employees by name when typing in the search bar, also sorts users in ascending and descending order when clicking on the "Name" heading in the table.
 
 ## User Story
 > As a user
