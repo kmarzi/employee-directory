@@ -2,7 +2,6 @@
 [
     {
         "id": 1,
-        "image":"https://randomuser.me/api/portraits/men/47.jpg",
         "name": "Hurley Reyes",
         "phone": "555-555-5555",
         "email": "H.Reyes@email.com"
